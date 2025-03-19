@@ -10,12 +10,7 @@
   <url>http://maven.apache.org</url>
 
 
-      <properties>
-        <!--  Sonar-Scanner -->
-        <sonar.projectKey>Maven_Project</sonar.projectKey>
-<sonar.host.url>http://localhost:9000sonar.host.url>
-        <sonar.login>squ_658bec96d9aa33b1ed0096f73da5c0544a32a5b8</sonar.login>
-    </properties>
+  
 
 
   
